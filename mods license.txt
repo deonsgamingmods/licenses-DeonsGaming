@@ -1,1 +1,5 @@
+You (the Licensee) are granted a perpetual, non-exclusive, worldwide, royalty-free license to create addons, extensions, integrations, and derivative works based on the original mod (including code-based addons, compatibility patches, and minor asset edits), and to distribute those addons and derivatives, including as part of modpacks.
 
+Prohibited: you may not republish the original mod’s unmodified files (or substantially identical copies) as standalone downloads on external websites, file-hosting services, or marketplaces, nor present the original mod as your own. You may release modified versions provided you do not present unmodified original files as your own work.
+
+Attribution is optional (appreciated but not required). The Author retains all copyrights. For uses beyond creating addons/including in modpacks (e.g., standalone rehosting, claiming authorship, or selling verbatim originals), obtain written permission. No warranty provided.
